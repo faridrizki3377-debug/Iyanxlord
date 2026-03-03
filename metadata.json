@@ -1,0 +1,5 @@
+{
+  "name": "Titan Kiosk Mode",
+  "description": "Enterprise-grade simulated kiosk environment with focus trapping, immersive protection, and system integrity monitoring.",
+  "requestFramePermissions": ["camera"]
+}
